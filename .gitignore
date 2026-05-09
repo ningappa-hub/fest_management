@@ -1,0 +1,24 @@
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# MySQL / SQL exports and backups
+*.sql.bak
+*.backup
+*.dump
+*.myd
+*.myi
+*.ibd
+
+# Environment files
+.env
+.env.*
